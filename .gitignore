@@ -1,0 +1,36 @@
+# Python virtual environment
+venv/
+env/
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# IDEs y OS
+*.vscode/
+*.idea/
+*.DS_Store
+*.user
+*.suo
+Thumbs.db
+*.bat
+*.sw?
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/}
+
+# Cache files
+.cache/
+*.tmp
+
+# Models training
+/03_modeling/models
+*.pkl
+*.joblib
+
+# Reports
+/04_evaluation_reporting/reports
