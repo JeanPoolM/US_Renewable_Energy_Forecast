@@ -33,4 +33,4 @@ dist/
 *.joblib
 
 # Reports
-/04_evaluation_reporting/reports
+/03_modeling/reports
